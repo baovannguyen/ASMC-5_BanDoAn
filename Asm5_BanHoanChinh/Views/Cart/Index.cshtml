@@ -1,0 +1,99 @@
+﻿@using Asm5_BanHoanChinh1.Models.ViewModels
+@model CartViewModel
+
+<body class="bg-light">
+    <h1 class="text-center" style="color: #E53935; font-weight: bold;">🛒 Giỏ Hàng Của Bạn</h1>
+
+    <section id="cart_items">
+        <div class="container mt-4">
+            <div class="table-responsive cart_info">
+                <table class="table table-bordered text-center" style="border-color: #D2691E;">
+                    <thead style="background-color: #E53935; color: white;">
+                        <tr>
+                            <th>Sản phẩm</th>
+                            <th>Mô tả</th>
+                            <th>Giá</th>
+                            <th>Số lượng</th>
+                            <th>Tổng</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @if (Model.CartItems.Count > 0)
+                        {
+                            @foreach (var item in Model.CartItems)
+                            {
+                                <tr style="border-color: #795548;">
+                                    <td class="align-middle">
+                                        <a href="#">
+                                            <img src="~/img/@item.HinhAnh" alt="Hình ảnh sản phẩm"
+                                                 class="img-thumbnail"
+                                                 style="max-width: 80px; border: 2px solid #D2691E; border-radius: 10px;">
+                                        </a>
+                                    </td>
+                                    <td class="align-middle">
+                                        <h5><a href="#" style="color: #795548;">@item.ProductName</a></h5>
+                                    </td>
+                                    <td class="align-middle">
+                                        <p style="color: #FDD835; font-weight: bold;">
+                                            @item.Price.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))
+                                        </p>
+                                    </td>
+                                    <td class="align-middle">
+                                        <div class="d-flex align-items-center justify-content-center">
+                                            <a class="btn btn-outline-danger btn-sm mx-1"
+                                               asp-controller="Cart" asp-action="Increase" asp-route-id="@item.ProductId">
+                                                ➕
+                                            </a>
+                                            <input class="form-control text-center border-0" type="text"
+                                                   name="quantity" value="@item.Quantity" readonly
+                                                   style="width: 50px; background-color: transparent; font-weight: bold;">
+                                            <a class="btn btn-outline-success btn-sm mx-1"
+                                               asp-controller="Cart" asp-action="Decrease" asp-route-id="@item.ProductId">
+                                                ➖
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">
+                                        <p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == @item.ProductId).Sum(x => x.Quantity * x.Price).ToString("C0", new System.Globalization.CultureInfo("vi-VN"))</p>
+                                    </td>
+                                    <td class="align-middle">
+                                        <a class="btn btn-outline-dark btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-id="@item.ProductId">
+                                            ❌
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+
+                            <tr style="background-color: #FFEB3B;">
+                                <td colspan="4" class="text-right font-weight-bold" style="color: #795548;">Tổng tiền:</td>
+                                <td class="text-left font-weight-bold" style="color: #D2691E;">
+                                    @Model.GrandTotal.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td colspan="6" class="text-center">
+                                    <a href="@Url.Action("Checkout", "DonHang")"
+                                       class="btn btn-lg text-white"
+                                       style="background-color: #D2691E; font-weight: bold;">
+                                        🛍 Thanh Toán Ngay
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="6" class="text-center">
+                                    <h4 class="text-muted">🛒 Giỏ hàng của bạn đang trống</h4>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+</body>

@@ -1,0 +1,53 @@
+﻿@model Asm5_BanHoanChinh1.Models.DonHangModel
+
+<body style="background-color: #F8F9FA;">
+    <div class="container my-5">
+        <!-- Thông tin đơn hàng -->
+        <div class="card shadow-lg border-0">
+            <div class="card-header text-center text-white"
+                 style="background: linear-gradient(135deg, #D2691E, #E65C00);
+                        border-top-left-radius: 10px; border-top-right-radius: 10px;">
+                <h2>🛒 Thông Tin Đơn Hàng</h2>
+            </div>
+            <div class="card-body text-dark">
+                <p><strong>📌 Mã đơn hàng:</strong> @Model.Id</p>
+                <p><strong>📅 Ngày đặt:</strong> @Model.NgayDat?.ToString("dd/MM/yyyy")</p>
+                <p>
+                    <strong>📦 Trạng thái:</strong>
+                    <span class="badge bg-success">@Model.TrangThai</span>
+                </p>
+                <p><strong>💰 Tổng tiền:</strong> <span class="text-danger fw-bold">@Model.TongTien.ToString("C")</span></p>
+            </div>
+        </div>
+
+        <!-- Chi tiết đơn hàng -->
+        <div class="card shadow-lg border-0 mt-4">
+            <div class="card-header text-center text-dark fw-bold"
+                 style="background-color: #FDD835; border-radius: 10px 10px 0 0;">
+                <h3>📜 Chi Tiết Đơn Hàng</h3>
+            </div>
+            <div class="table-responsive">
+                <table class="table text-center" style="border-radius: 10px;">
+                    <thead class="text-white"
+                           style="background: linear-gradient(135deg, #FFA726, #FB8C00);">
+                        <tr>
+                            <th>Sản phẩm</th>
+                            <th>Số lượng</th>
+                            <th>Giá</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.ChiTietDonHangs)
+                        {
+                            <tr>
+                                <td class="fw-bold">@item.MonAn?.Ten</td>
+                                <td>@item.SoLuong</td>
+                                <td class="text-danger fw-bold">@item.Gia.ToString("C")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>

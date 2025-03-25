@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Asm5_BanHoanChinh1.Models.MonAnModel>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+@if (User.HasClaim(c => c.Type == "AdminViewProduct"))
+{
+    <a href="@Url.Action("Create", "Manager")" class="btn btn-primary">Thêm sản phẩm</a>
+}
+@if (User.HasClaim(c => c.Type == "SalesViewProduct"))
+{
+    <a href="@Url.Action("Create", "Manager")" class="btn btn-primary">Thêm sản phẩm</a>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Mô tả</th>
+            <th>Thao tác</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Ten</td>
+                <td>@item.Gia.ToString("N0") VND</td>
+                <td>@item.MoTa</td>
+             
+                
+                
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Chi tiết</a>
+                    <form asp-action="Delete" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa?');">Xóa</button>
+                    </form>
+                    </td>
+                
+                
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+

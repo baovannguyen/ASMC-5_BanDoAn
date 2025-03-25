@@ -1,0 +1,66 @@
+﻿@model Asm5_BanHoanChinh1.Models.DonHangModel
+
+@{
+    ViewData["Title"] = "Update Reservation";
+}
+
+<h2>Update Reservation</h2>
+
+@if (ViewBag.Result == "Success")
+{
+    <div class="alert alert-success">Reservation updated successfully!</div>
+}
+
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Khách Hàng</th>
+            <th>Ngày Đặt</th>
+            <th>Trạng Thái</th>
+            <th>Tổng tiền</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.KhachHangId</td>
+            <td>@Model.NgayDat</td>
+            <td>@Model.TrangThai</td>
+            <td>@Model.TongTien</td>
+        </tr>
+    </tbody>
+</table>
+
+<form method="post" asp-action="UpdateDonHang">
+    <div class="form-group">
+        <label asp-for="Id"></label>
+        <input class="form-control" asp-for="Id" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="KhachHangId"></label>
+        <input class="form-control" asp-for="KhachHangId" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NgayDat"></label>
+        <input class="form-control" asp-for="NgayDat" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TrangThai"></label>
+        <input class="form-control" asp-for="TrangThai" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TongTien"></label>
+        <input class="form-control" asp-for="TongTien" />
+    </div>
+
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update</button>
+    </div>
+</form>
+
+<a asp-action="Getall" asp-controller="DonHangAPI" class="btn btn-sm btn-secondary">Quay lại</a>
+

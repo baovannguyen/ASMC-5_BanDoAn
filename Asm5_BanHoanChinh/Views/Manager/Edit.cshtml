@@ -1,0 +1,80 @@
+﻿@model Asm5_BanHoanChinh1.Models.MonAnModel
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Edit Product";
+}
+
+<h2>Edit Product</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Ten" class="control-label"></label>
+        <input asp-for="Ten" class="form-control" />
+        <span asp-validation-for="Ten" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Loai"></label>
+        <select asp-for="Loai" class="form-control">
+            <option value="">-- Chọn loại --</option>
+            <option value="Món ăn chính" selected="@(Model.Loai == "Món ăn chính")">Món ăn chính</option>
+            <option value="Món ăn vặt" selected="@(Model.Loai == "Món ăn vặt")">Món ăn vặt</option>
+            <option value="Món tráng miệng" selected="@(Model.Loai == "Món tráng miệng")">Món tráng miệng</option>
+            <option value="Đồ uống" selected="@(Model.Loai == "Đồ uống")">Đồ uống</option>
+            <option value="Món Nhật" selected="@(Model.Loai == "Món Nhật")">Món Nhật</option>
+            <option value="Đồ ăn nhanh" selected="@(Model.Loai == "Đồ ăn nhanh")">Đồ ăn nhanh</option>
+        </select>
+        <span asp-validation-for="Loai" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="MoTa" class="control-label"></label>
+        <textarea asp-for="MoTa" class="form-control"></textarea>
+        <span asp-validation-for="MoTa" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Gia" class="control-label"></label>
+        <input asp-for="Gia" type="number" step="0.01" class="form-control" />
+        <span asp-validation-for="Gia" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Ảnh hiện tại:</label><br />
+        <td>
+            @if (!string.IsNullOrEmpty(Model.HinhAnh))
+            {
+                <img src="~/img/@Model.HinhAnh" asp-append-version="true" alt="Hình ảnh sản phẩm"
+                     style="max-width: 200px; max-height: 200px;" />
+            }
+            else
+            {
+                <span>Không có hình ảnh</span>
+            }
+
+        </td>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HinhAnh"></label>
+        <input name="fileHinhAnh" type="file" class="form-control" accept="image/*" />
+        <span asp-validation-for="HinhAnh" class="text-danger"></span>
+    </div>
+
+
+  
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a href="@Url.Action("ManagerSP", "Manager")" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

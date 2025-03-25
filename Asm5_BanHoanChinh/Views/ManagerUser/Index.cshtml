@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Asm5_BanHoanChinh1.Models.ApplicationUser>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Danh sách người dùng</h2>
+<a asp-action="Create" class="btn btn-primary">Thêm người dùng</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Họ Tên</th>
+            <th>Email</th>
+            <th>Số điện thoại</th>
+            <th>Vai Trò</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.HoTen</td>
+                <td>@user.Email</td>
+                <td>@user.Sdt</td>
+                <td>@user.VaiTro</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@user.Id" class="btn btn-info">Chi tiết</a>
+                    <a asp-action="Edit" asp-route-id="@user.Id" class="btn btn-warning">Chỉnh sửa</a>
+                    <form asp-action="Delete" asp-route-id="@user.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa?')">Xóa</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

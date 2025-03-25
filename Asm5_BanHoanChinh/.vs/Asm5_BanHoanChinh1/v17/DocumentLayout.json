@@ -1,0 +1,1023 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\donhangapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\donhangapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\controllers\\donhangapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\monan\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\monan\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\monancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\monancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\views\\donhangapi\\updatedonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\accountadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\accountadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\donhang\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\donhang\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\donhang\\paidorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\donhang\\paidorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\data\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:data\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\chitietdonhangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\chitietdonhangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\monan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\monan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\managerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\managerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\managerhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\managerhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\views\\donhangapi\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\asm_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C526A958-9550-4AF5-BBD3-E3E51D01522E}|..\\Asm_API\\Asm_API.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm_api\\asm_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\monanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\monanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\managerhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\managerhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\managerhoadon\\editorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\managerhoadon\\editorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\managersp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\managersp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\accountadmin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\accountadmin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\accountadmin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\accountadmin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\accountadmin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\accountadmin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\asm5_banhoanchinh1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:asm5_banhoanchinh1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\asm5_banhoanchinh1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:asm5_banhoanchinh1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\migrations\\20250219042100_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:migrations\\20250219042100_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|d:\\fpt\\laptrinhcshap.5\\baitap\\asm\\asm5_banhoanchinh\\views\\manageruser\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4827790E-7948-4CB3-9FCB-0CE0655CD9B3}|Asm5_BanHoanChinh1.csproj|solutionrelative:views\\manageruser\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderStatus.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\DonHang\\OrderStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\DonHang\\OrderStatus.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\DonHang\\OrderStatus.cshtml",
+              "RelativeToolTip": "Views\\DonHang\\OrderStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T03:06:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHangAPIController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\DonHangAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangAPIController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\DonHangAPIController.cs",
+              "RelativeToolTip": "Controllers\\DonHangAPIController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:06:58.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Asm_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T14:01:21.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonHangAPIController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Controllers\\DonHangAPIController.cs",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Controllers\\DonHangAPIController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Controllers\\DonHangAPIController.cs",
+              "RelativeToolTip": "..\\Asm_API\\Controllers\\DonHangAPIController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:16:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountAdminController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\AccountAdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountAdminController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\AccountAdminController.cs",
+              "RelativeToolTip": "Controllers\\AccountAdminController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:51:42.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAMwGcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:56:14.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonAnController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\MonAnController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonAnController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\MonAnController.cs",
+              "RelativeToolTip": "Controllers\\MonAnController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:27:08.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:43:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\MonAn\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MonAn\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\MonAn\\Details.cshtml",
+              "RelativeToolTip": "Views\\MonAn\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:38:55.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\SeedData.cs",
+              "RelativeDocumentMoniker": "data\\SeedData.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\SeedData.cs",
+              "RelativeToolTip": "data\\SeedData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:17:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:42:31.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:24:43.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateDonHang.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\DonHangAPI\\UpdateDonHang.cshtml",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Views\\DonHangAPI\\UpdateDonHang.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\DonHangAPI\\UpdateDonHang.cshtml",
+              "RelativeToolTip": "..\\Asm_API\\Views\\DonHangAPI\\UpdateDonHang.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:32:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "data\\SessionExtensions.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\SessionExtensions.cs",
+              "RelativeToolTip": "data\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:47:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChiTietDonHangModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ChiTietDonHangModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChiTietDonHangModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ChiTietDonHangModel.cs",
+              "RelativeToolTip": "Models\\ChiTietDonHangModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:55:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaidOrders.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\DonHang\\PaidOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\DonHang\\PaidOrders.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\DonHang\\PaidOrders.cshtml",
+              "RelativeToolTip": "Views\\DonHang\\PaidOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T03:08:03.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:40:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:41:27.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Controllers\\DonHangController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:53:10.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Controllers\\ManagerController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:44:56.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:46:00.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:44:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\MonAn\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MonAn\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\MonAn\\Index.cshtml",
+              "RelativeToolTip": "Views\\MonAn\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAApwGMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:28:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:49:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Edit.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:34:07.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerUserController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerUserController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerUserController.cs",
+              "RelativeToolTip": "Controllers\\ManagerUserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwFUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:10:59.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Create.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:16:37.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Create.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T01:49:29.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Edit.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:37:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Index.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:14:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:51:56.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManagerHoaDonController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerHoaDonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerHoaDonController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\ManagerHoaDonController.cs",
+              "RelativeToolTip": "Controllers\\ManagerHoaDonController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:41:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Index1.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Index1.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:31:01.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:49:03.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Asm_API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:12:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:56:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Getall.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\DonHangAPI\\Getall.cshtml",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Views\\DonHangAPI\\Getall.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Views\\DonHangAPI\\Getall.cshtml",
+              "RelativeToolTip": "..\\Asm_API\\Views\\DonHangAPI\\Getall.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:22:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:54:18.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Asm_API.csproj",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Asm_API.csproj",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Asm_API.csproj",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Asm_API.csproj",
+              "RelativeToolTip": "..\\Asm_API\\Asm_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T13:58:54.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Asm_API",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Asm_API.csproj",
+              "RelativeDocumentMoniker": "..\\Asm_API\\Asm_API.csproj",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm_API\\Asm_API.csproj",
+              "RelativeToolTip": "..\\Asm_API\\Asm_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T14:03:05.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T12:59:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MonAnModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\MonAnModel.cs",
+              "RelativeDocumentMoniker": "Models\\MonAnModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\MonAnModel.cs",
+              "RelativeToolTip": "Models\\MonAnModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:54:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Details.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Details.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T06:55:33.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditOrders.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerHoaDon\\EditOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerHoaDon\\EditOrders.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerHoaDon\\EditOrders.cshtml",
+              "RelativeToolTip": "Views\\ManagerHoaDon\\EditOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T10:55:30.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerHoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerHoaDon\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerHoaDon\\Index.cshtml",
+              "RelativeToolTip": "Views\\ManagerHoaDon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T10:39:37.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ManagerSP.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\ManagerSP.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\ManagerSP.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\ManagerSP.cshtml",
+              "RelativeToolTip": "Views\\Manager\\ManagerSP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T01:49:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Manager\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T01:27:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountAdmin\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\Login.cshtml",
+              "RelativeToolTip": "Views\\AccountAdmin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T02:50:08.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-23T11:36:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountAdmin\\AccessDenied.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\AccountAdmin\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T07:48:07.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:42:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:46:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:35:29.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ManagerUser\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\ManagerUser\\Details.cshtml",
+              "RelativeToolTip": "Views\\ManagerUser\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T02:16:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T01:41:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T03:36:29.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250219042100_aa.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250219042100_aa.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250219042100_aa.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250219042100_aa.cs",
+              "RelativeToolTip": "Migrations\\20250219042100_aa.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAMAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:21:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountAdmin\\Register.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\AccountAdmin\\Register.cshtml",
+              "RelativeToolTip": "Views\\AccountAdmin\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T02:52:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:35:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T04:22:34.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Asm5_BanHoanChinh1.csproj",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Asm5_BanHoanChinh1.csproj",
+              "RelativeDocumentMoniker": "Asm5_BanHoanChinh1.csproj",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Asm5_BanHoanChinh1.csproj",
+              "RelativeToolTip": "Asm5_BanHoanChinh1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T02:07:42.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:46:48.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Asm5_BanHoanChinh1",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Asm5_BanHoanChinh1.csproj",
+              "RelativeDocumentMoniker": "Asm5_BanHoanChinh1.csproj",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Asm5_BanHoanChinh1.csproj",
+              "RelativeToolTip": "Asm5_BanHoanChinh1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T02:07:40.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

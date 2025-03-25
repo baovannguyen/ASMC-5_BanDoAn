@@ -1,0 +1,47 @@
+﻿@model Asm5_BanHoanChinh1.Models.DonHangModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@{
+    ViewData["Title"] = "Chỉnh sửa Đơn Hàng";
+}
+
+<h1>Chỉnh sửa Đơn Hàng</h1>
+
+<form asp-action="EditOrders" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <!-- Mã người dùng (readonly) -->
+    <div class="form-group">
+        <label asp-for="Id" class="control-label"></label>
+        <input asp-for="Id" class="form-control" readonly />
+    </div>
+
+    <!-- Ngày đặt (readonly) -->
+    <div class="form-group">
+        <label asp-for="NgayDat" class="control-label"></label>
+        <input asp-for="NgayDat" type="datetime-local" class="form-control" readonly />
+    </div>
+
+    <!-- Trạng thái (editable) -->
+    <div class="mb-3">
+        <label asp-for="TrangThai" class="form-label">Trạng thái:</label>
+        <select asp-for="TrangThai" class="form-select">
+            <option value="">---Đổi Trạng thái---</option>
+            <option value="Đã Thanh Toán">Đã Thanh Toán</option>
+            <option value="Đang Giao Hàng">Đang Giao Hàng</option>
+            <option value="Đang xử lý">Đang xử lý</option>
+        </select>
+        <span asp-validation-for="TrangThai" class="text-danger"></span>
+    </div>
+
+    <!-- Tổng tiền (readonly) -->
+    <div class="form-group">
+        <label asp-for="TongTien" class="control-label"></label>
+        <input asp-for="TongTien" class="form-control" readonly />
+    </div>
+
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

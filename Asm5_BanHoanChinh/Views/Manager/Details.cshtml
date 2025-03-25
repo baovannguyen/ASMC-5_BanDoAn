@@ -1,0 +1,49 @@
+﻿@model Asm5_BanHoanChinh1.Models.MonAnModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<table class="table">
+    <tr>
+        <th>Tên sản phẩm:</th>
+        <td>@Model.Ten</td>
+    </tr>
+    <tr>
+        <th>loại:</th>
+        <td>@Model.Loai</td>
+    </tr>
+    <tr>
+        <th>Mô tả:</th>
+        <td>@Model.MoTa</td>
+    </tr>
+    <tr>
+        <th>Giá:</th>
+        <td>@Model.Gia.ToString("N0") VND</td>
+    </tr>
+    <tr>
+        <th>Hình ảnh:</th>
+        <td>
+            @if (!string.IsNullOrEmpty(Model.HinhAnh))
+            {
+                <img src="~/img/@Model.HinhAnh" asp-append-version="true" alt="Hình ảnh sản phẩm"
+                     style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;" />
+            }
+            else
+            {
+                <span>Không có hình ảnh</span>
+            }
+        </td>
+    </tr>
+
+    <tr>
+        <th>Người tạo:</th>
+        <td>@Model.CreatedBy</td>
+    </tr>
+</table>
+
+<a asp-action="ManagerSP" class="btn btn-primary">Quay lại danh sách</a>

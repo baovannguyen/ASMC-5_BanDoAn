@@ -1,0 +1,75 @@
+﻿<body style="background-color: #F8F9FA;">
+    <div class="container mt-5 d-flex justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0" style="border-radius: 15px;">
+                <div class="card-header text-center"
+                     style="background: linear-gradient(135deg, #FFA726, #FB8C00);
+                            color: white; border-top-left-radius: 15px; border-top-right-radius: 15px;">
+                    <h2 class="font-weight-bold">📝 Đăng Ký</h2>
+                </div>
+                <div class="card-body text-dark p-4">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label class="form-label">👤 Họ Tên:</label>
+                            <input type="text" name="hoTen" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">📧 Email:</label>
+                            <input type="email" name="email" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">🔑 Mật Khẩu:</label>
+                            <input type="password" name="password" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">🏠 Địa Chỉ:</label>
+                            <input type="text" name="diaChi" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">📞 Số Điện Thoại:</label>
+                            <input type="tel" name="sdt" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">🎂 Ngày Sinh:</label>
+                            <input type="date" name="ngaySinh" class="form-control"
+                                   style="background-color: #FFF7F0; color: #E65C00;
+                                          border: 1px solid #FFA726; border-radius: 8px;" required />
+                        </div>
+
+                        <button type="submit" class="btn w-100 text-white py-2"
+                                style="background: linear-gradient(135deg, #FB8C00, #E65100);
+                                       font-weight: bold; border-radius: 8px;">
+                            Đăng Ký
+                        </button>
+                    </form>
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger mt-3">@ViewBag.Error</div>
+                    }
+                </div>
+                <div class="card-footer text-center"
+                     style="background-color: #FFF3E0; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+                    <p class="text-dark">
+                        Đã có tài khoản? <a href="/User/Login"
+                                            style="color: #E65C00; font-weight: bold;">Đăng nhập ngay</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

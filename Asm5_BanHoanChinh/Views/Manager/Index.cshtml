@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1>Welcome to Admin Dashboard</h1>
+            <p class="lead">Manage your website efficiently.</p>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Quản lý nhân viên</h5>
+                    <p class="card-text">Thêm, Xóa, Sửa, Chi Tiết.</p>
+                    <a href="@Url.Action("Index", "ManagerUser")" class="btn btn-primary">Xem</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Quản lý Người dùng</h5>
+                    <p class="card-text">Thêm, Xóa, Sửa, Chi Tiết.</p>
+                    <a href="@Url.Action("Index1", "ManagerUser")" class="btn btn-primary">Xem</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Quản Lý Sản Phẩm</h5>
+                    <p class="card-text">Thêm, Xóa, Sửa, Chi Tiết.</p>
+                    <a href="@Url.Action("ManagerSP", "Manager")" class="btn btn-primary">Xem</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Quản lý đơn hàng</h5>
+                    <p class="card-text">Xóa, Sửa</p>
+                    <a href="https://localhost:7031/DonHangAPI/Getall" class="btn btn-warning">Xem</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

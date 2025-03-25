@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Asm5_BanHoanChinh1.Models.DonHangModel>
+
+<body style="background-color: #F8F9FA;">
+    <div class="container mt-5">
+        <h2 class="text-center text-white py-2"
+            style="background: linear-gradient(135deg, #D2691E, #E65C00);
+                   border-radius: 10px;">
+            📜 Danh Sách Đơn Hàng Đã Thanh Toán
+        </h2>
+
+        <div class="card shadow-lg border-0 mt-3">
+            <div class="card-body">
+                <table class="table table-hover text-center" style="border-radius: 10px; overflow: hidden;">
+                    <thead class="text-white"
+                           style="background: linear-gradient(135deg, #FDD835, #FFA000);">
+                        <tr>
+                            <th>Mã đơn hàng</th>
+                            <th>Ngày đặt</th>
+                            <th>Trạng thái</th>
+                            <th>Tổng tiền</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model)
+                        {
+                            <tr>
+                                <td class="fw-bold">@order.Id</td>
+                                <td>@order.NgayDat?.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    <span class="badge bg-success">@order.TrangThai</span>
+                                </td>
+                                <td class="text-danger fw-bold">@order.TongTien.ToString("C")</td>
+                                <td>
+                                    <a asp-action="OrderStatus" asp-route-id="@order.Id"
+                                       class="btn text-white"
+                                       style="background: linear-gradient(135deg, #E65C00, #E53935); border-radius: 8px;">
+                                        🔍 Xem Chi Tiết
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,12 @@
+﻿@model Asm5_BanHoanChinh1.Models.MonAnModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Xác nhận xóa</h2>
+<p>Bạn có chắc chắn muốn xóa món ăn <strong>@Model.Ten</strong> không?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="ManagerSP" class="btn btn-secondary">Hủy</a>
+</form>

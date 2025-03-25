@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213102126_asm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250213102126_asm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\RegisterAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\RegisterAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\DonHangModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DonHangModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\LoginAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\LoginAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\MonAnModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\MonAnModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ChiTietDonHangModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ChiTietDonHangModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:26:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:14:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:34:39.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterAdmin.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\RegisterAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\RegisterAdmin.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\RegisterAdmin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\RegisterAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T11:19:55.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonHangModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\DonHangModel.cs",
+              "RelativeDocumentMoniker": "Models\\DonHangModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\DonHangModel.cs",
+              "RelativeToolTip": "Models\\DonHangModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:52:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:12:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginAdmin.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\LoginAdmin.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\LoginAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T11:18:25.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T11:30:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonAnModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\MonAnModel.cs",
+              "RelativeDocumentMoniker": "Models\\MonAnModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\MonAnModel.cs",
+              "RelativeToolTip": "Models\\MonAnModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:52:18.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:34:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDonHangModel.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ChiTietDonHangModel.cs",
+              "RelativeDocumentMoniker": "Models\\ChiTietDonHangModel.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Models\\ChiTietDonHangModel.cs",
+              "RelativeToolTip": "Models\\ChiTietDonHangModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:53:11.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250213112710_AddDefaultRoleToApplicationUser.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs",
+              "RelativeToolTip": "Migrations\\20250213112710_AddDefaultRoleToApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:27:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:01:37.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:38:45.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250213102126_asm.cs",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213102126_asm.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250213102126_asm.cs",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\Migrations\\20250213102126_asm.cs",
+              "RelativeToolTip": "Migrations\\20250213102126_asm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:21:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FPT\\laptrinhcshap.5\\baitap\\asm\\Asm5_BanHoanChinh\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T10:13:27.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
